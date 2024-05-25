@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App02HelloWorld_Spring",
+            "request": "launch",
+            "mainClass": "com.learnspring.learn_spring.App02HelloWorld_Spring",
+            "projectName": "learn-spring"
+        },
+        {
+            "type": "java",
+            "name": "GameApp_01",
+            "request": "launch",
+            "mainClass": "com.learnspring.learn_spring.GameApp_01",
+            "projectName": "learn-spring"
+        },
+        {
+            "type": "java",
+            "name": "GameApp",
+            "request": "launch",
+            "mainClass": "com.learnspring.learn_spring.GameApp",
+            "projectName": "learn-spring"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-GameApp<learn-spring>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
